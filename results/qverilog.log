@@ -1,0 +1,7 @@
+Start time: 17:47:39 on Dec 30,2023
+qverilog apb_protocol_tb_top.sv -gui 
+** Error (suppressible): (qverilog-19) Failed to access library 'work' at "/home/users/i77031/Work/APB_1/work".
+Permission denied. (errno = EACCES)
+Verilog Compiler exiting
+End time: 17:47:40 on Dec 30,2023, Elapsed time: 0:00:01
+Errors: 1, Warnings: 0
